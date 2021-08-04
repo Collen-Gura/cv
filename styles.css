@@ -1,0 +1,32 @@
+/*This is the background color of the whole HTML page*/
+body {
+    background-color: #EAF6F6;
+  }
+/*********************TAG SELECTORS*********************/
+/* Header links*/
+h1 {
+    color: #66BFBF;
+  }
+
+h3, h4 {
+    color: #66BFBF;
+  }
+
+/*hr = horizontal rules <hr>. This puts a line
+wherever it is in the HTML.*/
+
+.hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+/*********************CLASS SELECTORS********************/
+.bacon{
+  background-color: green;
+}
+
+.broccoli{
+  background-color: red;
+}
