@@ -3,7 +3,7 @@ body {
     background-color: #EAF6F6;
   }
 /*********************TAG SELECTORS*********************/
-/* Header links*/
+/* Tag Selector: Header links*/
 h1 {
     color: #66BFBF;
   }
@@ -12,7 +12,8 @@ h3, h4 {
     color: #66BFBF;
   }
 
-/*hr = horizontal rules <hr>. This puts a line
+
+/*Class Selectors: hr = horizontal rules <hr>. This puts a line
 wherever it is in the HTML.*/
 
 .hr {
