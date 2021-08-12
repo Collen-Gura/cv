@@ -6,6 +6,9 @@ body {
 /* Tag Selector: Header links*/
 h1 {
     color: #66BFBF;
+    font-family:  'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    line-height: 1.1;
   }
 
 h3, h4 {
