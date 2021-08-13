@@ -3,7 +3,7 @@ body {
     background-color: #EAF6F6;
   }
 /*********************TAG SELECTORS*********************/
-/* Tag Selector: Header links*/
+/* tag Selector: Header links*/
 h1 {
     color: #66BFBF;
     font-family:  'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -15,8 +15,20 @@ h3, h4 {
     color: #66BFBF;
   }
 
+/* creating Circled Image*/
+img {
+    border-radius: 50%;
+  }
 
-/*Class Selectors: hr = horizontal rules <hr>. This puts a line
+/* making images responsive and automatically adjust to scale down to
+   fit the size of the screen, but never greater than its original size
+*/
+/*img {
+    max-width:100%;
+    height: auto;
+}*/
+
+/*class Selectors: hr = horizontal rules <hr>. This puts a line
 wherever it is in the HTML.*/
 
 .hr {
